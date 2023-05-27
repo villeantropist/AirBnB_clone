@@ -1,0 +1,1 @@
+This is README.md for web_static Task
